@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Twenty Blog</title>
+    <title>Simon&#39;s personal website!</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://locahost:4000/</link>
-    <atom:link href="http://locahost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 09 Dec 2015 08:32:34 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Dec 2015 08:32:34 +0000</lastBuildDate>
+    <link>http://siyounguk.github.io/</link>
+    <atom:link href="http://siyounguk.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 03 Jan 2016 15:28:17 +0000</pubDate>
+    <lastBuildDate>Sun, 03 Jan 2016 15:28:17 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;p&gt;&lt;span class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/pic03.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
-        <link>http://locahost:4000/2014/10/29/morbi-a-semper.html</link>
-        <guid isPermaLink="true">http://locahost:4000/2014/10/29/morbi-a-semper.html</guid>
+        <link>http://siyounguk.github.io/2014/10/29/morbi-a-semper.html</link>
+        <guid isPermaLink="true">http://siyounguk.github.io/2014/10/29/morbi-a-semper.html</guid>
         
         
       </item>
@@ -32,8 +32,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus au
 
 </description>
         <pubDate>Sun, 31 Aug 2014 15:36:23 +0100</pubDate>
-        <link>http://locahost:4000/2014/08/31/first-post.html</link>
-        <guid isPermaLink="true">http://locahost:4000/2014/08/31/first-post.html</guid>
+        <link>http://siyounguk.github.io/2014/08/31/first-post.html</link>
+        <guid isPermaLink="true">http://siyounguk.github.io/2014/08/31/first-post.html</guid>
         
         
       </item>
