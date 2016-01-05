@@ -564,7 +564,7 @@
 
 			.wrapper {
 				margin-bottom: 5em;
-				padding: 5em;
+				padding: 1em;
 			}
 
 			.wrapper.style1 {
@@ -1172,7 +1172,13 @@
 			text-align: right;
 		}
 
-		.about-image{
-			max-height: 200px;
-			width: 200px;
+		.about-image-left{
+			height: 250px;
+			max-width: 600px;
+			
+		}
+
+		.about-image-right{
+			height: 400px;
+			max-width: 600px;
 		}
