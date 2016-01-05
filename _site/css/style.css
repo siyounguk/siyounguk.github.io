@@ -1139,3 +1139,38 @@
 			display: inline-block;
 			width: 5em;
 		}
+		#skills {
+		  /*min-width: 100vw;
+		  min-height: 100vh;*/
+		  padding-top: 150px;
+		  /*margin-left: 468px;
+		  margin-right: 500px;*/
+		  margin: 0 auto;
+		  padding-left: 400px
+		}
+
+		.skillsIcons {
+		  margin-bottom: 20px;
+
+		}
+
+		.fa-square-o{
+			color: #7C8081;
+		}
+
+		.skillsList {
+		  list-style-type: none;
+		  padding: 0;
+		  margin: 0 0 60px 0;
+		}
+
+		.skillsItem {
+		  font-size: 18px;
+		  margin-bottom: 5px;
+		}
+
+		.skills-section-heading {
+			text-align: center;
+			margin-left: 50px
+		}
+
