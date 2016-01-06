@@ -10,7 +10,7 @@
 	/* Basic */
 
 	body, #skel-layers-wrapper {
-		background: #f3f6fa;
+		background: #BEFBFB;
 	}
 
 	body.is-loading * {
@@ -563,7 +563,13 @@
 			/* Wrapper */
 
 			.wrapper {
-				margin-bottom: 5em;
+				margin-bottom: 3em;
+				padding: 1em;
+			}
+
+			.wrapper.style0 {
+				/*margin-bottom: 3em;*/
+				background: white;
 				padding: 1em;
 			}
 
@@ -1181,4 +1187,8 @@
 		.about-image-right{
 			height: 400px;
 			max-width: 600px;
+		}
+
+		header.special.container.about{
+			padding-top: 0em;
 		}
