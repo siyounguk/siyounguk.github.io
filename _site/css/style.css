@@ -1192,3 +1192,8 @@
 		header.special.container.about{
 			padding-top: 0em;
 		}
+
+		#banner-portfolio .inner.portfolio{
+			padding-left: 0px;
+			padding-right: 0px;
+		}
