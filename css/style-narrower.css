@@ -6,6 +6,10 @@
 
 /* Basic */
 
+	html{
+		min-width: 413px;
+	}
+
 	header.major {
 		padding-bottom: 0.25em;
 	}
@@ -119,3 +123,4 @@
 	#footer {
 		padding: 4em 1.5em;
 	}
+
