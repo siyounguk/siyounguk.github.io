@@ -25,9 +25,13 @@
 	}
 
 /* Section/Article */
+	#banner .inner header {
+		border-color: white;
+	}
 
 	header {
 		text-align: center;
+		
 	}
 
 		header.major {
@@ -189,3 +193,7 @@
 			padding: 0;
 			border: 0;
 		}
+
+	.colour-change{
+		color: white;	
+	}
