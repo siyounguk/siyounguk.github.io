@@ -11,11 +11,6 @@
 	src: url(./font/PFDinTextPro-Regular.ttf);
 }
 
-/*
-	Twenty by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-	*/
 
 	/* Basic */
 
@@ -133,16 +128,6 @@
 		text-align: center;
 	}
 
-/*		header.special:before, header.special:after {
-			border-bottom: solid 1.5px;
-			border-top: solid 1.5px;
-			content: '';
-			height: 7px;
-			opacity: 0.1;
-			position: absolute;
-			top: 1.75em;
-			width: 43%;
-			}*/
 
 			header.special:before {
 				left: 0;
