@@ -961,7 +961,7 @@
 		#footer {
 			background: #1a1919;
 			color: #7c8081;
-			padding: 5em 5em 5em 5em;
+			padding: 2em 5em 2em 5em;
 			text-align: center;
 		}
 
@@ -1143,8 +1143,9 @@
 		}
 		#skills {
 			min-width: 100vw;
-			min-height: 100vh;
+			min-height: 70vh;
 			padding-top: 50px;
+			margin: 
 
 		}
 
