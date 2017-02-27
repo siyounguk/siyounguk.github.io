@@ -270,6 +270,10 @@
 				width: 100%;
 			}
 
+			.image:hover img {
+				opacity: 0.5;
+			}
+
 			/* Icon */
 
 			.icon {
@@ -1145,7 +1149,7 @@
 			min-width: 100vw;
 			min-height: 70vh;
 			padding-top: 50px;
-			margin: 
+			margin:
 
 		}
 
@@ -1169,7 +1173,7 @@
 
 		.skills-section-heading {
 			text-align: center;
-			
+
 		}
 
 		.text-center{
