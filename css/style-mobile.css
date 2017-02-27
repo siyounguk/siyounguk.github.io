@@ -31,7 +31,7 @@
 
 	header {
 		text-align: center;
-		
+
 	}
 
 		header.major {
@@ -105,9 +105,9 @@
 		padding: 2.25em 1.5em;
 	}
 
-		.wrapper.special br {
+		/*.wrapper.special br {
 			display: none;
-		}
+		}*/
 
 		.wrapper.style1 {
 			padding: 0 1.5em;
@@ -195,7 +195,7 @@
 		}
 
 	.colour-change{
-		color: white;	
+		color: white;
 	}
 
 	.about-image-left{

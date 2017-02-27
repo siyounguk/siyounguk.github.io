@@ -161,6 +161,10 @@
 				opacity: 0.35;
 			}
 
+			section.text-left {
+				text-align: left;
+			}
+
 			footer > :last-child {
 				margin-bottom: 0;
 			}
@@ -272,6 +276,10 @@
 
 			.image:hover img {
 				opacity: 0.5;
+			}
+
+			.image-padding {
+				padding: 0 10%;
 			}
 
 			/* Icon */
