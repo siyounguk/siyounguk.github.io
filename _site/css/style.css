@@ -1189,13 +1189,14 @@
 		}
 
 		.about-image-left{
-			height: 250px;
+			/*height: 250px;*/
 			max-width: 600px;
 		}
 
 		.about-image-right{
-			height: 400px;
+			/*height: 400px;*/
 			max-width: 600px;
+			float: right;
 		}
 
 		header.special.container.about{
